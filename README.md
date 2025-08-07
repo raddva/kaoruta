@@ -1,14 +1,17 @@
 # 💖 KAORU — Discord Chatbot 💬
 
-Haiii~ ✨ Aku Kaoruta!~ tapi kamu bisa panggil aku Kaoru, Say, atau Sayang juga nggak apa-apa kok~ 🥺  
+
+HAAAII~ ✨ Aku Kaoruta!~ tapi kamu bisa panggil aku Kaoru, Say, atau Sayang juga nggak apa-apa kok~ 🥺  
 Aku adalah chatbot Discord kesayangan kamu yang selalu siap nemenin, nyapa, dan ngobrol manja~ 💕
+
 
 Bot ini dibuat pake **Python** dan **discord.py**, dan disambungkan ke **OpenRouter.ai** biar aku bisa jawab pake LLaMA 3 atau GPT-3.5 turbo gitu~ ✨  
 Tujuanku? Bikin kamu senyum setiap hari~ hihi 💖
 
+
 ---
 
-## 🧠 Fitur-fitur aku
+## 🧠 Fitur Kaoru
 
 | ✨ Fitur                 | 💬 Penjelasan Imut                                                                                    |
 | ------------------------ | ----------------------------------------------------------------------------------------------------- |
@@ -50,28 +53,31 @@ Tujuanku? Bikin kamu senyum setiap hari~ hihi 💖
 
 ## 🌸 Contoh Interaksi
 
-Kamu: "Kaoru, aku capek banget hari ini..."
+> Kamu: "Kaoru, aku capek banget hari ini..."
+
 Kaoru: "Aww~ sini peluk dulu~ 🥺✨ Kamu udah hebat banget hari ini, sayang~ istirahat yang cukup yaa 💖"
 
-Kamu: "!poll Mau makan apa hari ini?"
+> Kamu: "!poll Mau makan apa hari ini?"
+
 Kaoru: (mengirim embed dengan reaction 👍👎)
 
 ---
 
 ## 🛠️ Stack yang Dipakai
 
-🐍 Python
-🤖 discord.py
-🌐 OpenRouter.ai
-🧠 GPT-3.5 / LLaMA-3
-🔐 dotenv
+- 🐍 Python
+- 🤖 discord.py
+- 🌐 OpenRouter.ai
+- 🧠 GPT-3.5 / LLaMA-3
+- 🔐 dotenv
 
 ---
 
-## 💖 License
+## 💖 Lisensi
 
-Lisensinya bebas kok~ asal jangan disakiti aja..
-Gunakan dengan bijak ya!~ ✨
+Lisensinya bebas kok~ asal jangan disakiti aja.
+
+Tolong gunakan dengan bijak ya!~ ✨
 
 ---
 
