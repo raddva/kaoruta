@@ -1,67 +1,78 @@
-# 🤖 LEVREY - OpenRouter Chatbot (Streamlit + GPT-3.5)
+# 💖 KAORU — Discord Chatbot 💬
 
-**Levrey** is a modern chatbot UI powered by [OpenRouter.ai](https://openrouter.ai), built with **Python** and **Streamlit**, using **OpenAI's GPT-3.5 Turbo** model.  
-Simple, free, and perfect for portfolio projects, learning, or demos.
+Haiii~ ✨ Aku Kaoruta!~ tapi kamu bisa panggil aku Kaoru, Say, atau Sayang juga nggak apa-apa kok~ 🥺  
+Aku adalah chatbot Discord kesayangan kamu yang selalu siap nemenin, nyapa, dan ngobrol manja~ 💕
 
----
-
-## ✨ Features
-
-- 💬 Powered by `openai/gpt-3.5-turbo` via OpenRouter
-- 🧠 Fast, intelligent responses — no OpenAI account needed
-- ⚡ Streamlit-based chat interface
-- 💸 100% free to run (with OpenRouter API key)
-- 🔧 Easy to customize: change models, UI, prompts
+Bot ini dibuat pake **Python** dan **discord.py**, dan disambungkan ke **OpenRouter.ai** biar aku bisa jawab pake LLaMA 3 atau GPT-3.5 turbo gitu~ ✨  
+Tujuanku? Bikin kamu senyum setiap hari~ hihi 💖
 
 ---
 
-## 🚀 Getting Started
+## 🧠 Fitur-fitur aku
 
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/radiva/levrey-chatbot.git
-cd levrey-chatbot
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Set your API key
-
-Modify the env-local file to .env and set your API Key
-
-> 🔑 Get your API key from: https://openrouter.ai/keys
-
-### 4. Run the app
-
-```bash
-streamlit run app.py
-```
+| ✨ Fitur                 | 💬 Penjelasan Imut                                                                                    |
+| ------------------------ | ----------------------------------------------------------------------------------------------------- |
+| `💌 Chat Mode`           | Kalo kamu bilang "Kaoru", "sayang", "beb", atau "say", aku langsung jawab sebagai cewe kamu loh~ 🥺💕 |
+| `👋 Greeting`            | Aku nyapa kamu kalo join server, atau kalo kamu bilang "hello" atau "bye"~                            |
+| `🗑️ Filter Ucapan Kasar` | Kalo kamu ngomong kasar... huhu aku hapus ya~ soalnya Kaoru ngga suka kata-kata jelek 🥺              |
+| `🧙 Role Management`     | Bisa assign atau remove role kayak `Atmin`~ aku bantu kamu jadi atmin kesayangan~ ✨                  |
+| `📬 DM Bot`              | Kamu bisa kirim pesan pribadi dan aku bakal bales lewat DM yaa sayang~ 💌                             |
+| `📊 Polling`             | Bikin polling gampang banget! Tinggal ketik `!poll` dan tanya deh~                                    |
+| `🛡️ Role Lock`           | Command khusus yang cuma bisa dipake sama yang punya role tertentu, biar aman gituu~ 💼               |
 
 ---
 
-## 🌍 Live Demo
+## 🧑‍💻 Cara Pakainya
 
-🔗 Coming soon — hosted for free on Streamlit Cloud.
+1. Clone repo ini ke komputer kamu:
+
+   ```bash
+   git clone https://github.com/raddva/kaoruta.git
+   cd kaoruta
+   ```
+
+2. Install semua yang dibutuhin pake:
+
+   ```bash
+   pip install -r requirements.txt
+
+   ```
+
+3. Ubah env.example file jadi .env lalu tambahin API Key kamu yaa
+
+4. Jalankan botnya!
+
+   ```bash
+   python main.py
+   ```
 
 ---
 
-## 🛠 Customize
+## 🌸 Contoh Interaksi
 
-You can easily extend Levrey by:
+Kamu: "Kaoru, aku capek banget hari ini..."
+Kaoru: "Aww~ sini peluk dulu~ 🥺✨ Kamu udah hebat banget hari ini, sayang~ istirahat yang cukup yaa 💖"
 
-🎭 Changing models (Mistral, Claude, GPT-4, etc.)
-🪄 Adding avatars, markdown rendering, or input memory
-🧾 Tweaking system prompts and behavior
-🧩 Integrating tools (e.g. web search, code execution, etc.)
+Kamu: "!poll Mau makan apa hari ini?"
+Kaoru: (mengirim embed dengan reaction 👍👎)
 
 ---
 
-## 🧑‍🎓 Author
+## 🛠️ Stack yang Dipakai
 
-Made with ❤️ by Asdya
-Feel free to fork, remix, or share!
+🐍 Python
+🤖 discord.py
+🌐 OpenRouter.ai
+🧠 GPT-3.5 / LLaMA-3
+🔐 dotenv
+
+---
+
+## 💖 License
+
+Lisensinya bebas kok~ asal jangan disakiti aja..
+Gunakan dengan bijak ya!~ ✨
+
+---
+
+Kaoruta, Made With 💕 by Asdya.
